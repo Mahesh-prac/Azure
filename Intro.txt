@@ -1,0 +1,37 @@
+Lecture -1
+
+Introduction to Azure account creation
+
+-- Two types of accounts
+1. Personal Use - Azure account (production)
+2. Professional Use - Office+Azure (creates admin)
+
+
+-- Search in Incognito ( office 365 with e3 signup)
+
+--Your username is mahesh@maheshbachamoni.onmicrosoft.com
+  Password: Preethi@007
+  We've sent a confirmation email to mahesh.ross138@gmail.com
+
+--sing in page:https://portal.office.com/AdminPortal/Home#/m365setupwizard
+
+-- search Azure signup
+-- portal.azure.com
+
+
+
+Lecture -2
+
+Azure User Creation and Deletion
+
+-- Login into Portal.Azure.com -> go to Azure Active directory -> Users -> click on new user -> Enter the details as required.
+-- Login into Portal.office.com	-> Add user -> Give all the required fields -> Finish
+-- To add Guest user to access certian appllications -> Click on Guest user -> Give required details (email, full name) -> send invitation.
+-- To edit the user details -> click on uses profile -> make necessary changes as required -> save and finish.
+-- To reset the password -> click on user and reset password
+
+Lecture - 3
+Azure Static and Dynamic Groups
+
+-- Login -> Goto Azure Active Directory -> create groups -> select the suitable group from the list (Assign) -> Give group name -> Add members
+-- Dynamic group creation -> click on New Group -> Select Dynamic User -> Add dynamic query -> City equal Hyd.
