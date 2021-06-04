@@ -35,3 +35,9 @@ Azure Static and Dynamic Groups
 
 -- Login -> Goto Azure Active Directory -> create groups -> select the suitable group from the list (Assign) -> Give group name -> Add members
 -- Dynamic group creation -> click on New Group -> Select Dynamic User -> Add dynamic query -> City equal Hyd.
+
+Lecture -4
+Azure custom domain naming
+
+-- Login -> Goto Azure active directory -> Custom Domain Name -> Add Custom domain ->
+-- TO verify domain name -> goto domain provider -> add TXT and MX from Azure -> Click on Verify
